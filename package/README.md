@@ -43,7 +43,3 @@ Each player's loadouts are their own, even in a shared Loadout Chest. **Install 
 | General | RefillFromChests | true | Restock stackables from chests in the base |
 | Hotkeys | OpenMenu | L | |
 | Hotkeys | SwitchToLoadout1 … 5 | Alt+1 … Alt+5 | Order is as listed in the menu (alphabetical) |
-
-## Coming next
-
-**Kits**: named sets like "Potions: 10 healing, 10 stamina" or "enough to build 2 portals", restocked from your chests with one key.
