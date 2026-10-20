@@ -1,0 +1,11 @@
+{
+  "name": "GearHeim",
+  "author": "Svaha",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/mattbaya/GearHeim",
+  "description": "Gear loadouts locked in a Loadout Chest. Switch from anywhere in your base with a hotkey; food, potions and arrows restock from your chests.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
