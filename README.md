@@ -2,7 +2,9 @@
 
 A [BepInEx](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/) + [Jötunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/) mod for Valheim: gear loadouts locked in a buildable Loadout Chest, switchable from anywhere in your base, with stackables restocked from your chests.
 
-Player-facing docs: [package/README.md](package/README.md).
+Install: [Svaha-GearHeim on Thunderstore](https://thunderstore.io/c/valheim/p/Svaha/GearHeim/), or the Assets zip from a [GitHub release](https://github.com/mattbaya/GearHeim/releases).
+
+Player-facing docs: [package/README.md](package/README.md). Version history: [package/CHANGELOG.md](package/CHANGELOG.md).
 
 ## Layout
 
